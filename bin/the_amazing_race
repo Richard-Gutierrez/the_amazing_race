@@ -1,0 +1,27 @@
+#!/usr/bin/env ruby
+
+`mkdir the_amazing_race`
+
+# Miami
+`mkdir -p the_amazing_race/north_america/florida/miami/south_beach`
+`mkdir -p the_amazing_race/north_america/florida/miami/coconut_grove`
+`mkdir -p the_amazing_race/north_america/florida/miami/miami_international_airport`
+
+# Bogotá
+`mkdir -p the_amazing_race/south_america/colombia/bogota/plaza_bolivar`
+
+# Machu Picchu
+`mkdir -p the_amazing_race/south_america/peru/cuzco`
+`mkdir -p the_amazing_race/south_america/peru/machu_picchu`
+
+# Iquitos
+`mkdir -p the_amazing_race/south_america/peru/iquitos`
+
+# Manaus
+`mkdir -p the_amazing_race/south_america/amazon_river`
+`mkdir -p the_amazing_race/south_america/brazil/manaus/teatro_amazonas`
+`echo 'Act I, Scene 1' >> the_amazing_race/south_america/brazil/manaus/teatro_amazonas/carmen_libretto`
+
+# Rio de Janeiro
+`mkdir -p the_amazing_race/south_america/brazil/rio_de_janeiro/academicos_de_santa_cruz`
+`touch the_amazing_race/south_america/brazil/rio_de_janeiro/academicos_de_santa_cruz/outrageously_sexy_costume`
